@@ -16,3 +16,12 @@ h1 {
 #image:target {
   display: block;
 }
+
+div {
+  display: flex;
+}
+
+div img {
+  border: 2px dahsed white;
+  height: 200px;
+}
