@@ -9,19 +9,10 @@ h1 {
   font-size: 100px;
 }
 
-#image {
-  display: none;
-}
-
-#image:target {
-  display: block;
-}
-
 div {
   display: flex;
   justify-content: center;
   border: 2px dashed white; 
-  width: 1000px;
 }
 
 div img {
