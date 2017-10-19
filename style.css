@@ -9,10 +9,13 @@ h1 {
   font-size: 100px;
 }
 
+section {
+  border: 2px dashed white;
+}
+
 div {
   display: flex;
   justify-content: center;
-  border: 2px dashed white; 
 }
 
 div img {
