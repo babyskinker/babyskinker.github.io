@@ -19,9 +19,11 @@ h1 {
 
 div {
   display: flex;
+  text-align: center;
 }
 
 div img {
-  border: 2px dahsed white;
-  height: 200px;
+  border: 2px solid; white;
+  height: 500px;
+  margin-right: 25px;
 }
