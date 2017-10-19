@@ -1,0 +1,18 @@
+html {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#image {
+  display: none;
+}
+
+#image:target {
+  display: block;
+}
