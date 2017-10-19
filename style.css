@@ -21,6 +21,7 @@ div {
   display: flex;
   justify-content: center;
   border: 2px dashed white; 
+  width: 1000px;
 }
 
 div img {
@@ -28,5 +29,4 @@ div img {
   height: 500px;
   margin-top: 25px;
   margin-bottom: 25px;
-  width: 500px;
 }
